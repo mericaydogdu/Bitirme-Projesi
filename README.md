@@ -21,7 +21,7 @@ python bitirme_projesi.py
 
 Projede iki dosya vardır:  
 - `bitirme_projesi.py` (kod dosyası)  
-- `Bitirme Projesi Sunum.pdf` (proje sunumu)
+- `Bitirme Projesi Sunum.pdf` (proje sunumu) [Bitirme Projesi Sunumunu Görüntüle](./Bitirme%20Projesi%20Sunum.pdf)
 
 ## İletişim
 
